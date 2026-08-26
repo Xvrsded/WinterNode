@@ -1,0 +1,24 @@
+{
+  "name": "discord-quest-notifier",
+  "version": "1.0.0",
+  "description": "Discord Quest Notifier Bot",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "bot": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test:quest-api": "node scripts/testQuestApi.js",
+    "test:quest-sync": "node scripts/testQuestSync.js",
+    "test:mongo": "node scripts/testMongoConnection.js",
+    "test:quest-monitor": "node scripts/testQuestMonitor.js",
+    "test:quest-notification": "node scripts/testQuestNotificationDelivery.js",
+    "test:quest-live": "node scripts/testQuestLiveDelivery.js",
+    "audit:discord": "node scripts/auditDiscordConfig.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.9.2",
+    "sharp": "^0.35.3"
+  }
+}

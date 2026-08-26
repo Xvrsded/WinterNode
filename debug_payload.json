@@ -1,0 +1,313 @@
+{
+  "type": 17,
+  "accent_color": 5793266,
+  "components": [
+    {
+      "type": 10,
+      "content": "## STREET FIGHTER 6"
+    },
+    {
+      "type": 12,
+      "items": [
+        {
+          "media": {
+            "url": "https://cdn.discordapp.com/assets/content/6bc74dec843f9f4bc40a2f32d64dc3cfa96842bc48d93bddf498ec8c7f63ace4"
+          }
+        }
+      ]
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Ryu Bundle](https://discord.com/shop#itemSkuId=1285465420979245087)\n\n**Price:**\n$23.99 Regular\n$17.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Akuma Bundle](https://discord.com/shop#itemSkuId=1285465420995756065)\n\n**Price:**\n$23.99 Regular\n$17.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1e8cb6070b13f775a41384c84c5a53e1.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [M. Bison Bundle](https://discord.com/shop#itemSkuId=1285465421016862730)\n\n**Price:**\n$23.99 Regular\n$17.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_66f69effef43b4f7c4f5d0739079a947.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Ryu](https://discord.com/shop#itemSkuId=1285465421029576704)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Chun-Li](https://discord.com/shop#itemSkuId=1285465421050548345)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_bba133b88b21e1b4a36637335536c3a8.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Ken](https://discord.com/shop#itemSkuId=1285465421071519825)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f524554b7f42a214d15c226c344a5357.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Akuma](https://discord.com/shop#itemSkuId=1285465421096685639)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1e8cb6070b13f775a41384c84c5a53e1.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Cammy](https://discord.com/shop#itemSkuId=1285465421121851445)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c899a523b33e54210c0d5577a35907b4.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Guile](https://discord.com/shop#itemSkuId=1285465421167988758)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_993ac691660d3d67b500d995e121b220.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Juri](https://discord.com/shop#itemSkuId=1285465421193154560)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_dcfe10bac4a782ffb5eefef7a8003115.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [M. Bison](https://discord.com/shop#itemSkuId=1285465421214126100)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_66f69effef43b4f7c4f5d0739079a947.png?size=256&passthrough=false"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Street Fighter 6](https://discord.com/shop#itemSkuId=1285465421239291904)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/assets/content/6e8c5792425a64dfc84890004f4d89dbbf2a3b6b16ea90a8aa016f9316ea1ad7"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Akuma's Wrath](https://discord.com/shop#itemSkuId=1285465421260263464)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/assets/content/39a3bba509f35fc3bd5bf8aec61e86c9bd027c9c278d60cea8b1eb3507f3582c"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [M. Bison's Return](https://discord.com/shop#itemSkuId=1285465421285429258)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/assets/content/57a1a1f14c829129fe7f0345643e980ce60de6bb60e69792a397ddcba65e2cdc"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 9,
+      "components": [
+        {
+          "type": 10,
+          "content": "### [Classic Street Fighter](https://discord.com/shop#itemSkuId=1285465421306400858)\n\n**Price:**\n$12.99 Regular\n$9.99 Nitro\nNot available"
+        }
+      ],
+      "accessory": {
+        "type": 11,
+        "media": {
+          "url": "https://cdn.discordapp.com/assets/content/5b9f93bfc155472da228e48969dd906ead9636f20f16ef3a09397dc8b71a74bd"
+        }
+      }
+    },
+    {
+      "type": 14,
+      "divider": true
+    },
+    {
+      "type": 10,
+      "content": "Category SKU ID: `1285465421339693076`"
+    }
+  ]
+}
