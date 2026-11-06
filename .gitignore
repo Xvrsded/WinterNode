@@ -1,11 +1,10 @@
-# Logs
-logs
+# Logs and runtime output
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-logs/*
 !logs/.gitkeep
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -42,6 +41,13 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+
+# Local debug exports and generated assets
+*_debug.json
+debug_*.json
+quests_dump.json
+raw_quests_dump.json
+tmp/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
